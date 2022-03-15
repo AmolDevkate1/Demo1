@@ -1,0 +1,8 @@
+class INFO{
+   public static void main(String ar[])
+       { String name= "AMOL";
+         String branch= "ELECTRICAL";
+         String class= "final";
+         String info= AMOL+ELECTRICAL+final;
+        System.out.println("info");
+}}
